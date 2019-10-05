@@ -45,5 +45,5 @@ def reduce_to_total(source_array)
     new.push(source_array[i] + sum)
     i +=1
   end
-  return new.sum
+  return i
 end
